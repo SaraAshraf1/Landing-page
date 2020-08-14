@@ -24,4 +24,4 @@ Here is where functionality happens, there is three functions here, the first is
 Here the css styles and it taken from the skelton code provided by udacity.
 
 ## Running
-To launch this website, simply clone the repo and open `index.html` file in the browser. 
+To launch this website, simply clone the repo and open `index.html` file in the browser, you can also use this link directly https://saraashraf1.github.io/Landing-page/. 
